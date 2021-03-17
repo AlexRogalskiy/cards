@@ -3509,10 +3509,10 @@ typescript@3.9.3:
   resolved "https://registry.npmjs.org/typescript/-/typescript-3.9.3.tgz"
   integrity sha512-D/wqnB2xzNFIcoBG9FG8cXRDjiqSTbG2wd8DMZeQyJlP1vfTkIxH4GKveWaEBYySKIg+USu+E+EDIR47SqnaMQ==
 
-typescript@^4.0.5:
-  version "4.2.3"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-4.2.3.tgz"
-  integrity sha512-qOcYwxaByStAWrBf4x0fibwZvMRG+r4cQoTjbPtUlrWjBHbmCAww1i448U0GJ+3cNNEtebDteo/cHOR3xJ4wEw==
+typescript@^4.3.0-dev.20210317:
+  version "4.3.0-dev.20210317"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.0-dev.20210317.tgz#154a7ee8926cc4fce483556e0a3b0b86c02611fe"
+  integrity sha512-8cWbTP3pxvXN3v/okhJqos7raoUuTMz72HbLoCZZnMz5YcdHbiUQUlbJqABbW7i87StwCW4JuLtiT4+ofwwENQ==
 
 unfetch@^4.2.0:
   version "4.2.0"
